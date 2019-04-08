@@ -1,0 +1,81 @@
+/* ----    Add your Google Fonts above the rest of your CSS       ----------------------------*/
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+KuaiLe');
+
+
+
+
+
+/* ----    Keep your CSS organized with comments       ----------------------------==========================================================
+
+CSS COPIED TO EACH PAGE
+
+================================================================== */
+
+body.container{
+    
+    margin:0px;
+}
+
+.logo {
+    width: 25%;
+    margin: 20px auto;
+    display: block;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: bottom;
+    width:98%;
+    padding: 20px;
+   
+   
+   
+     
+}
+ul{
+   list-style-type: none;
+    margin:0;
+    
+}
+.background-image{
+    width:100%;
+    z-index:-2;
+    margin:0 auto;
+    display:block;
+}
+
+}
+
+/* === ==========================================================
+
+CSS FOR BLOGS
+
+================================================================== */
+
+.lorem-ipsum {
+    font-weight:bolder;
+    
+    font-family: calibri;
+}
+
+
+#the-blogs {
+    margin: auto;
+    width: 80%;
+    background: dodgerblue;
+    text-align: justify;
+}
+
+.blog-title {
+    color: dodgerblue;
+    font-size: 35px;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    background: black;
+}
+
+
+
+/*-- Keep all your "styling and designs" organized with comments! --*/
+
