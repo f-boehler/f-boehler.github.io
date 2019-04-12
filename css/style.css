@@ -11,7 +11,8 @@ CSS COPIED TO EACH PAGE
 
 ================================================================== */
 
-body.container{
+.body-color {
+    background-color:#f3f3f3ff;
     
     margin:0px;
 }
@@ -23,7 +24,7 @@ body.container{
 }
 
 footer {
-    background-color: black;
+    background-color:black;
     color: white;
     position: absolute;
     bottom: bottom;
@@ -33,6 +34,9 @@ footer {
    
    
      
+}
+.about-us{
+    
 }
 ul{
    list-style-type: none;
@@ -74,7 +78,7 @@ CSS FOR BLOGS
     font-family: 'ZCOOL KuaiLe', cursive;
     background: black;
 }
-
+.font{font-family: 'ZCOOL KuaiLe', cursive;}
 
 
 /*-- Keep all your "styling and designs" organized with comments! --*/
